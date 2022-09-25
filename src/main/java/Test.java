@@ -4,5 +4,8 @@ public class Test {
         System.out.println("XiaoMing的新分支");
         System.out.println("Master分支");
         System.out.println("小明的分支");
+        for (int i = 0; i < 5; i++) {
+            System.out.println("master新分支");
+        }
     }
 }
